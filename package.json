@@ -1,0 +1,25 @@
+{
+  "name": "vault-express",
+  "version": "0.0.1",
+  "description": "reusable authentication for expressjs",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junyada100/vault-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junyada100/vault-express/issues"
+  },
+  "homepage": "https://github.com/junyada100/vault-express#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"
+  }
+}
